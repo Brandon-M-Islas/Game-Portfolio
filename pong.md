@@ -1,7 +1,7 @@
 ---
 title: Pong
 layout: default
-filename: pong.html
+filename: /
 ---
 
 ## Welcome to GitHub Pages
