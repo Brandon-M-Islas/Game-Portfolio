@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Pong
-permalink: /Game-Portfolio/pong/
 ---
 
 ## About
