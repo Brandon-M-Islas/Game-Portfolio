@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Pong
+file: pong.html
 ---
 
 ## About
