@@ -1,7 +1,7 @@
 ---
 title: Space Invaders
 layout: default
-filename: index.md
+filename: index.html
 ---
 
 
