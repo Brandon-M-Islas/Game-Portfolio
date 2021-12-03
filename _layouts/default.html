@@ -20,7 +20,7 @@
       <h2 class="project-tagline">A collection of games by Brandon Islas </h2>
       <div allign="right">
         {% for page in site.pages %}
-          <a href={{ page.filename }} class="btn">{{ page.title }}</a>
+          <a href={{ page.permalink }} class="btn">{{ page.title }}</a>
         {% endfor %}
       </div>
       

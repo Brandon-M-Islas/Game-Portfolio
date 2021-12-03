@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Space Defender
-permalink: /index/
+permalink: /
 ---
 
 
