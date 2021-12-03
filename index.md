@@ -1,7 +1,7 @@
 ---
-title: Space Invaders
 layout: default
-filename: /
+title: Space Defender
+permalink: /index/
 ---
 
 

@@ -1,11 +1,16 @@
 ---
-title: Pong
 layout: default
-filename: /
+title: Pong
+permalink: /pong/
 ---
 
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/Brandon-M-Islas/Game-Portfolio/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+WebJeda is a web designing company
+.
+.
+.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Disclaimer:** This website is under constant modification.
+If you find something isn't right then,
+I might be doing some change in the back-end.
