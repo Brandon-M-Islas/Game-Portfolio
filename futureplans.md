@@ -4,6 +4,7 @@ title: Future Plans
 file: futureplans.html
 ---
 
+# Future Plans
 To improve my skillset and expand my toolbox, some plans I have are to:
 * Make games in C++, Unity, and/or Unreal
 * Create a 2-D side scroller level
