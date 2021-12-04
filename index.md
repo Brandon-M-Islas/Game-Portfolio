@@ -29,3 +29,8 @@ Some future features include:
 * High-Score Board (permanent)
 * Sound effects
 * A pause button
+
+![Space Defender Main Menu Screenshot](/assets/img/spsc1.png)
+![Space Defender Mode Menu Screenshot](/assets/img/spsc2.png)
+![Space Defender Gameplay Screenshot](/assets/img/spsc3.png)
+![Space Defender Gameplay Gif](/assets/img/sppreview.gif)

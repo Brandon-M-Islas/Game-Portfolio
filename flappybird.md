@@ -14,3 +14,6 @@ I was able to learn:
 * Python syntax
 * Data structures like lists and objects
 * Pygame tools
+
+![Flappy Bird Gameplay Screenshot](/assets/img/fbsc.png)
+![Flappy Bird Gameplay Gif](/assets/img/fbpreview.gif)

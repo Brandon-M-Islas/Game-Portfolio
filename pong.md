@@ -15,3 +15,6 @@ I was able to practice:
 * Python syntax
 * Principles of object oriented programming like inheritance
 * Incorporating simple game physics 
+
+![Pong Gameplay Screenshot](/assets/img/psc.png)
+![Pong Gameplay Gif](/assets/img/ppreview.gif)
